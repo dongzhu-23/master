@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9578a4b-b320-45a9-9071-e1c3622165e8" name="更改" comment="">
+    <list default="true" id="f9578a4b-b320-45a9-9071-e1c3622165e8" name="更改" comment="chu">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decoded.txt" beforeDir="false" afterPath="$PROJECT_DIR$/decoded.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/encoded.txt" beforeDir="false" afterPath="$PROJECT_DIR$/encoded.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +23,25 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="X_17782609380 &lt;2941917207@qq.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "dongzhu-23"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:dongzhu-23/master.git",
+    "accountId": "f1578f40-ada0-461c-b80e-aa15d3a4a2b6"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -80,6 +100,15 @@
       <option name="presentableId" value="Default" />
       <updated>1735032537239</updated>
     </task>
+    <task id="LOCAL-00001" summary="chu">
+      <option name="closed" value="true" />
+      <created>1735086356921</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735086356921</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,5 +133,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chu" />
+    <option name="LAST_COMMIT_MESSAGE" value="chu" />
   </component>
 </project>
