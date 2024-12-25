@@ -1,0 +1,5 @@
+Hello, Huffman Compression!
+This is a simple test for Huffman encoding, compression, and decompression.
+Huffman works by assigning shorter codes to more frequent characters.
+Hello，I love write demon
+chengzihao
