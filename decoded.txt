@@ -4,3 +4,4 @@ Huffman works by assigning shorter codes to more frequent characters.
 Hello，I love write demon
 chengzihao
 i love studying demon
+nihao wo shi yi ming da er de xue sheng!
